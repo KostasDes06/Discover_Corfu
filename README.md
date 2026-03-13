@@ -11,7 +11,7 @@ A beautiful and interactive travel website dedicated to showcasing the island of
 - User preference is saved to browser storage
 
 ### 🎬 Hero Section
-- Full-screen video background showcasing Corfu's stunning landscapes
+- Full-screen photo background showcasing Corfu's stunning town landscape
 - Welcoming overlay content with smooth animations
 
 ### 📍 Navigation
