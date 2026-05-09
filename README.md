@@ -1,25 +1,26 @@
+---
 # Discover Corfu
 
 This is an IT University student's first web development project utilizing HTML5, CSS and Javascript. A beautiful and interactive travel website dedicated to showcasing the island of Corfu, Greece. This project combines modern web design with engaging features to inspire and inform visitors about the attractions, culture, and natural beauty of Corfu.
 
 ## Features
 
-### 🌙 Dark Mode Toggle
+### -> Dark Mode Toggle
 - Easy-to-use dark mode button in the navbar
 - Automatically switches all background colors to a dark theme
 - Font colors adjust for optimal readability in dark mode
 - User preference is saved to browser storage
 
-### 🎬 Hero Section
+### -> Hero Section
 - Full-screen photo background showcasing Corfu's stunning town landscape
 - Welcoming overlay content with smooth animations
 
-### 📍 Navigation
+### -> Navigation
 - Fixed navbar with smooth scrolling to different sections
 - Responsive design that adapts to mobile devices
 - Intuitive linking to Home, About, Attractions, Gallery, and Maps
 
-### 🏖️ Sections
+### -> Sections
 
 #### About
 - Description of why Corfu is worth visiting
@@ -41,17 +42,12 @@ This is an IT University student's first web development project utilizing HTML5
 - Island highlights section with image overlays
 - Hover animations and smooth transitions
 
-### ✨ Interactive Effects
+### -> Interactive Effects
 
 - **Scroll Animations**: Elements fade in and slide up as they enter the viewport
 - **Parallax Scrolling**: Background images move at different speeds for depth
 - **Hover Effects**: Cards, images, and links have smooth, engaging transitions
 - **3D Gallery Effects**: Gallery images respond to mouse movement with perspective transforms
-
-### 📱 Responsive Design
-- Mobile-friendly layout that works on all screen sizes
-- Adaptive grid layouts for cards, galleries, and sections
-- Touch-friendly navigation
 
 ## File Structure
 
@@ -79,7 +75,7 @@ This is an IT University student's first web development project utilizing HTML5
 ## Features in Detail
 
 ### Dark Mode
-- Click the moon icon (🌙) in the navbar to enable dark mode
+- Click the yellow moon icon in the navbar to enable dark mode
 - All backgrounds change to dark colors (#1a1a1a for body, #2a2a2a for sections)
 - Text automatically becomes white for better contrast
 - Your preference is saved in browser storage
@@ -95,16 +91,8 @@ This is an IT University student's first web development project utilizing HTML5
 ## Browser Compatibility
 
 - Modern browsers (Chrome, Firefox, Safari, Edge)
-- HTML5 video support required for full experience
 - CSS Grid and Flexbox support required
 
-## Future Enhancements
-
-- Contact form integration
-- Additional gallery sections
-- Language localization
-- Video background optimization
-- Enhanced mobile menu
 
 ---
 
