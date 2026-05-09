@@ -1,6 +1,6 @@
 # Discover Corfu
 
-A beautiful and interactive travel website dedicated to showcasing the island of Corfu, Greece. This project combines modern web design with engaging features to inspire and inform visitors about the attractions, culture, and natural beauty of Corfu.
+This is an IT University student's first web development project utilizing HTML5, CSS and Javascript. A beautiful and interactive travel website dedicated to showcasing the island of Corfu, Greece. This project combines modern web design with engaging features to inspire and inform visitors about the attractions, culture, and natural beauty of Corfu.
 
 ## Features
 
@@ -109,4 +109,3 @@ A beautiful and interactive travel website dedicated to showcasing the island of
 ---
 
 **Discover Corfu** - Experience the Jewel of the Ionian Sea
-"# Discover_Corfu" 
